@@ -32,11 +32,6 @@ Users can specify their own values for Fizz and Buzz, and the program will accep
 
 They also have the option to define the start, end and steps of the number sequence:
 
-#Define what number you want to start the output at
 output_start = 1
-
-#Define what number you want to end the output on
 output_end = 200
-
-#Define what steps you want to count up in
 output_step = 1
